@@ -1,3 +1,3 @@
 Este es un documento de historia
 
-vamos a hacer pruebas de GIT
+vamos a hacer pruebas de GIT ahora!!
